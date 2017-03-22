@@ -26,3 +26,5 @@ What I want to learn and associated resources
 * Chocolatey
 ### Where from?
 * http://www.developer.com/net/virtualize-your-windows-development-environments-with-vagrant-packer-and-chocolatey-part-1.html
+* http://vbyron.com/blog/docker-windows-vmware-workstation-vagrant/
+* https://learn.chef.io/tutorials/learn-the-basics/ubuntu/virtualbox/set-up-a-machine-to-manage/
