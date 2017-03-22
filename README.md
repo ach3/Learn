@@ -22,3 +22,5 @@ What I want to learn and associated resources
 * Docker
 ### Tools
 * Vagrant
+* Packer
+* Chocolatey
