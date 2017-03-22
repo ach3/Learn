@@ -24,3 +24,5 @@ What I want to learn and associated resources
 * Vagrant
 * Packer
 * Chocolatey
+### Where from?
+* http://www.developer.com/net/virtualize-your-windows-development-environments-with-vagrant-packer-and-chocolatey-part-1.html
