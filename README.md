@@ -13,3 +13,6 @@ What I want to learn and associated resources
 * NGraph (anvaka))
 ### Where from?
 * dataquest.io
+
+## General interview questions
+* http://www.techiedelight.com/list-of-problems/
