@@ -5,6 +5,7 @@ What I want to learn and associated resources
 ### Topics
 * Statistics
 * K-Means
+* K nearest neighbors
 * Linear Regression
 * Logistic Regression
 ### Tools
